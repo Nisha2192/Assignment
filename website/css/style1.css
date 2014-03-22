@@ -1,0 +1,55 @@
+
+h4
+{
+	font-size:24px;
+	color:#C60;
+}
+
+#footer1 {
+	margin-top:30%;
+	clear: both;
+	padding: 20px 0;
+	background: #FFEA6F;
+	border-top: 3px solid #E8AD35;
+	text-align: center;
+	color:#630;
+}
+
+#footer1 p
+{
+	font-size:18px;
+}
+
+#social
+{
+	margin-top:-1%;
+	width:25%;
+	height:13%;
+	margin-left:70%;
+	border-radius: 20px;
+	
+}
+
+#social a
+{
+	margin-left:5%;
+
+}
+
+#connect
+{
+	margin-left:3%;
+	margin-top:3%;
+	
+}
+
+#connect a
+{
+	margin-left:2%;
+}
+
+#connect img
+{
+	width:40px;
+	height:40px;
+}

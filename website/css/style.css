@@ -1,0 +1,12 @@
+.gallery-wrap { margin-left:55px ; overflow: hidden; width: 732px; border-style:solid; border-color:#C93; border-radius: 20px;}
+.gallery { position: relative; left: 0; top: 0; }
+.gallery__item { float: left; list-style: none; margin-right: 5px; margin-top: 1%;}
+.gallery__img { display: block; border: 4px ; height: 175px; width: 175px; margin-left:2%;}
+
+.gallery__controls { margin-top: 10px; }
+.gallery__controls-prev { cursor: pointer; float: left; }
+.gallery__controls-next { cursor: pointer; float: right; }
+
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1;}
