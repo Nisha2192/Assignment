@@ -1,3 +1,5 @@
+
+//for slider 
 jQuery(document).ready(function ($) {
 
   $('#checkbox').change(function(){

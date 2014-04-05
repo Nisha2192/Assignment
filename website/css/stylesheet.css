@@ -36,6 +36,13 @@ h6
 	color:#C60;
 }
 
+h7
+{
+	margin-left:10%;
+	margin-top:3%;
+	font-size:32px;
+	color:#C30;
+}
 
 #header
 {
@@ -258,6 +265,11 @@ li a:hover
 	width:30%;
 	height:75%;
 }
+
+#submit
+{
+	font-size:20px;
+}	
 
 #about {margin-left:5%;}
 #left { float:left; width:500px; padding:50px 20px 10px 10px; }
