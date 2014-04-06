@@ -1,3 +1,13 @@
+<!--
+Design by Nisha Dhanwani
+
+File Name: show.php
+Author's Name: Nisha Dhanwani
+File Description: This php page fetches the
+business contacts from the database and details 
+of those contacts too.  
+
+-->
 <html>
 
 	<head>

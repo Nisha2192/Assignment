@@ -1,3 +1,13 @@
+<!--
+Design by Nisha Dhanwani
+
+File Name: business.php
+Author's Name: Nisha Dhanwani
+File Description: This php page displays the login form 
+and validates the user. 
+
+-->
+
 <?php
 session_start();
     include 'connect.php';
@@ -30,9 +40,6 @@ foreach($records as $row)
 	$userfound = true;
 
 }
-
-
-
 
 
 if($userfound){

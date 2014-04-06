@@ -1,3 +1,13 @@
+<!--
+Design by Nisha Dhanwani
+
+File Name: connect.php
+Author's Name: Nisha Dhanwani
+File Description: This php page establishes the 
+connection to the database containing authenticated
+users' details. 
+-->
+
 <?php
 
 try{

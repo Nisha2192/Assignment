@@ -1,3 +1,11 @@
+/*
+Design by Nisha Dhanwani
+
+File Name: java.js
+Author's Name: Nisha Dhanwani
+File Description: This javascript file consists the code of slider functioning
+manually as well as automatically on the home.html page. 
+*/
 
 //for slider 
 jQuery(document).ready(function ($) {
